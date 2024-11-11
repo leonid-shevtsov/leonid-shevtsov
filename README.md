@@ -1,1 +1,5 @@
 [🦣 @leonid@shevtsov.me](https://social.shevtsov.me/@leonid)
+
+[<img
+        src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ft.me%2Fstendap_sogodni&query=%2F%2Fdiv%5B%40class%3D%22tgme_page_extra%22%5D&logo=data%3Aimage%2Fsvg%2Bxml%3Bcharset%3Dutf-8%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHBhdGggZD0iTTI5LjkxOSA2LjE2M2wtNC4yMjUgMTkuOTI1Yy0wLjMxOSAxLjQwNi0xLjE1IDEuNzU2LTIuMzMxIDEuMDk0bC02LjQzOC00Ljc0NC0zLjEwNiAyLjk4OGMtMC4zNDQgMC4zNDQtMC42MzEgMC42MzEtMS4yOTQgMC42MzFsMC40NjMtNi41NTYgMTEuOTMxLTEwLjc4MWMwLjUxOS0wLjQ2Mi0wLjExMy0wLjcxOS0wLjgwNi0wLjI1NmwtMTQuNzUgOS4yODgtNi4zNS0xLjk4OGMtMS4zODEtMC40MzEtMS40MDYtMS4zODEgMC4yODgtMi4wNDRsMjQuODM3LTkuNTY5YzEuMTUtMC40MzEgMi4xNTYgMC4yNTYgMS43ODEgMi4wMTN6Ii8%2BDQo8L3N2Zz4%3D&logoColor=%23FFFFFF&label=Telegram+@stendap_sogodni"
+    /></a>](https://t.me/stendap_sogodni) 
